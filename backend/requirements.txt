@@ -1,0 +1,6 @@
+# Python packages for the backend.
+# Install them by running (inside the backend folder):
+#     pip install -r requirements.txt
+
+Flask==3.0.3
+Flask-Cors==4.0.1
